@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 
 - :mortar_board: Post Graduated.
 - :office: I’m currently working on BBD India.
-- ⚡ I’m currently learning Java, Machine Learning, Python.
+- ⚡ I’m currently learning Machine Learning.
 - :email: How to reach me: hetvip2000@gmail.com
 - 
 
