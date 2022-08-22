@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## My name is Hetvi Patel and I am a Junior Software Engineer. :computer:
+## I am Hetvi Patel and I am a Junior Software Engineer. :computer:
 
 <!--
 **Hetvi415/Hetvi415** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
