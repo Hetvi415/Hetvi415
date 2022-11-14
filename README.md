@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## I am Hetvi Patel and I am a Junior Software Engineer. :computer:
+## I am Hetvi Patel and I am a Software Engineer. :computer:
 
 <!--
 **Hetvi415/Hetvi415** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -9,7 +9,8 @@ Here are some ideas to get you started:
 
 - :mortar_board: Post Graduated.
 - :office: Currently working in BBD India.
-- ⚡ I’m currently learning Machine Learning and AWS.
+- ⚡ Currently learning Machine Learning.
+- Also Started new position as DevOps trainee.
 
 ## Technologies and Tools I use:
 <div align="center">
