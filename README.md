@@ -8,8 +8,8 @@ Here are some ideas to get you started:
 -->
 
 - :mortar_board: Post Graduated.
-- :office: I’m currently working on BBD India.
-- ⚡ I’m currently learning Machine Learning.
+- :office: Currently working in BBD India.
+- ⚡ I’m currently learning Machine Learning and AWS.
 
 ## Technologies and Tools I use:
 <div align="center">
