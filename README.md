@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - :mortar_board: Post Graduated.
 - :office: Currently working in BBD India.
 - ⚡ Currently learning Machine Learning.
-- Also Started new position as DevOps trainee.
+- Started new position as DevOps trainee.
 
 ## Technologies and Tools I use:
 <div align="center">
